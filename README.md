@@ -48,4 +48,10 @@ Drugs are natural or artificial substances that can alter perception of reality,
 
 ![](images/a.png)
 
- We designed the board starting by a topography map
+ We designed the board starting by a topography map to give a modularity aspect and not to limitate ourselves with a squared board. Also, the shapes of the topography allows to create different shape and adjust the board by preference.
+ Once that the shapes were fixed we developed a flow of answers that could represent statements related to drug and then we placed them in the rhino file.
+
+![](images/d.png)
+
+
+![](images/c.png)
