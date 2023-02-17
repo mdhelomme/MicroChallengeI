@@ -79,12 +79,11 @@ We know that being honest, with themselves and others, about drugs is not easy, 
 
 ![](images/e.png)
 
-These answers are not laser cut in the board, instead we printed weird shaped stickers (that are connected to aesthetic of the project) on blu vinyl and then sticked them on the board.
+These answers are not laser cut in the board, instead we printed weird shaped stickers (that are connected to aesthetic of the project) on blue vinyl and then sticked them on the board.
 
 ![](images/f.jpg)
 
-Each sticker (MARIIIIIIIIIIIII)
-
+Using an augumented reality development package and ARKit, we then developed an app which allows you to individually scan each icon (stickers), and in return, the app displays the "invisible answers" on your phone. The app however, is limited to individual deployment, thus we have to deploy it on each IOS device by building it through XCode. Having said that, the code is currently limited to IOS builds. 
 
 ![](images/phone.jpg)
 
