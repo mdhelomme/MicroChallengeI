@@ -46,12 +46,29 @@ Drugs are natural or artificial substances that can alter perception of reality,
  We want people to feel comfortable in sharing personal opinions about drugs, that's why we designed a simple tool, a sharing board, that it's seen multiple times in different occasions, as a way to normalize the topic. We wanna give a non judgmental tool to gather data about drug use in different locations (street, music festival, bars, uni).
 
 
+ Reference:
+ ![](images/data.jpg)
+
+
+
 ![](images/a.png)
 
  We designed the board starting by a topography map to give a modularity aspect and not to limitate ourselves with a squared board. Also, the shapes of the topography allows to create different shape and adjust the board by preference.
- Once that the shapes were fixed we developed a flow of answers that could represent statements related to drug and then we placed them in the rhino file.
 
 ![](images/d.png)
 
 
-![](images/c.png)
+![](images/d.png)
+
+Once that the shapes were fixed we developed a flow of answers that could represent statements related to drug and then we placed them in the rhino file.
+We first prototyped the board in cardboard to test it out and then we laser cut it on plywood. Close to each answer we put a nail were a thread can be attached as a "yes I do"
+
+![](images/g.png)
+
+**THE INVISIBLE ANSWERS**
+
+We know that being honest, with themselves and others about drugs is not easy, so in order to allow people to feel more comfortable about sharing we came up with the idea of the invisible answers, more intimate and difficult statements that might be hard to point out.
+
+![](images/e.png)
+
+These answers are not laser cut in the board, instead we printed weird shaped stickers (that are connected to aesthetic of the project) on blu vinyl and then sticked them on the board.
