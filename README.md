@@ -53,7 +53,7 @@ Drugs are natural or artificial substances that can alter perception of reality,
 
 
 
- We designed the board starting by a topography map to give a modularity aspect and not to limitate ourselves with a squared board. Also, the shapes of the topography allows to create different shape and adjust the board by preference.
+ We designed the board starting by a topography map to give a modularity aspect and not to limitate ourselves with a squared board. Also, the shapes of the topography allows to create different shapes and adjust the board by preference.
 
 ![](images/a.png)
 
@@ -61,10 +61,14 @@ Once that the shapes were fixed we developed a flow of answers that could repres
 
 ![](images/d.png)
 
+![](images/c.png)
 
-![](images/d.png)
 
-We first prototyped the board in cardboard to test it out and then we laser cut it on plywood. Close to each answer we put a nail were a thread can be attached as a "yes I do"
+
+We first prototyped the board in cardboard to test it out and then we laser cut it on plywood.
+The whole board that starts with a question: "Do you do drugs?" The YES and NO answers correspond to a thread and then the journey begins as a flow of answers to communicate personal opinion and experience.
+Close to each answer we put a nail were a thread can be attached as a "yes I do".
+
 
 ![](images/g.jpg)
 
@@ -77,3 +81,5 @@ We know that being honest, with themselves and others about drugs is not easy, s
 These answers are not laser cut in the board, instead we printed weird shaped stickers (that are connected to aesthetic of the project) on blu vinyl and then sticked them on the board.
 
 ![](images/f.jpg)
+
+Each sticker (MARIIIIIIIIIIIII)
