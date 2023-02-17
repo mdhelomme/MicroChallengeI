@@ -64,9 +64,9 @@ Once that the shapes were fixed we developed a flow of answers that could repres
 ![](images/c.png)
 
 
-
 We first prototyped the board in cardboard to test it out and then we laser cut it on plywood.
-The whole board that starts with a question: "Do you do drugs?" The YES and NO answers correspond to a thread and then the journey begins as a flow of answers to communicate personal opinion and experience.
+The whole board that starts with a question: "Do you do drugs?"
+The YES and NO answers correspond to a thread and then the journey begins as a flow of answers to communicate personal opinion and experience.
 Close to each answer we put a nail were a thread can be attached as a "yes I do".
 
 ![](images/yes.jpg)
