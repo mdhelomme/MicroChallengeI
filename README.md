@@ -66,7 +66,7 @@ Once that the shapes were fixed we developed a flow of answers that could repres
 
 We first prototyped the board in cardboard to test it out and then we laser cut it on plywood.
 The whole board that starts with a question: "Do you do drugs?"
-The YES and NO answers correspond to a thread and then the journey begins as a flow of answers to communicate personal opinion and experience.
+The YES and NO answers correspond to a thread and then the journey begins as a flow of answers to communicate personal opinions and experiences.
 Close to each answer we put a nail were a thread can be attached as a "yes I do".
 
 ![](images/yes.jpg)
@@ -75,7 +75,7 @@ Close to each answer we put a nail were a thread can be attached as a "yes I do"
 
 **THE INVISIBLE ANSWERS**
 
-We know that being honest, with themselves and others about drugs is not easy, so in order to allow people to feel more comfortable about sharing we came up with the idea of the invisible answers, more intimate and difficult statements that might be hard to point out.
+We know that being honest, with themselves and others, about drugs is not easy, so in order to allow people to feel more comfortable about sharing we came up with the idea of the invisible answers, more intimate and difficult statements that might be hard to point out in front of others.
 
 ![](images/e.png)
 
@@ -84,3 +84,9 @@ These answers are not laser cut in the board, instead we printed weird shaped st
 ![](images/f.jpg)
 
 Each sticker (MARIIIIIIIIIIIII)
+
+
+
+
+So eventually each participant could feel like living in an open space where to share, even more intimate and private stuff related to drugs.
+This project is part of a wider project called **DRUGS YOU BETTER KNOW** that soon will try to partecipate to a Sonar open call for artistic and technological projects working at the intersection between art, technology, sciences, and society, aiming for ideas that see the development of AI, VR, AR. We're also developing a VR immersive experience to break walls of prejudice and conservatism to open dialogue and reduce drug harms at festivals. 
