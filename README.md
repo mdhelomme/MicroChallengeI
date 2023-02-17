@@ -46,6 +46,6 @@ Drugs are natural or artificial substances that can alter perception of reality,
  We want people to feel comfortable in sharing personal opinions about drugs, that's why we designed a simple tool, a sharing board, that it's seen multiple times in different occasions, as a way to normalize the topic. We wanna give a non judgmental tool to gather data about drug use in different locations (street, music festival, bars, uni).
 
 
-![](../images/a.png)
+![](images/a.png)
 
  We designed the board starting by a topography map
