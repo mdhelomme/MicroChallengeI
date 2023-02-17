@@ -66,7 +66,7 @@ Once that the shapes were fixed we developed a flow of answers that could repres
 
 We first prototyped the board in cardboard to test it out and then we laser cut it on plywood. Close to each answer we put a nail were a thread can be attached as a "yes I do"
 
-![](images/g.png)
+![](images/g.jpg)
 
 **THE INVISIBLE ANSWERS**
 
@@ -75,3 +75,5 @@ We know that being honest, with themselves and others about drugs is not easy, s
 ![](images/e.png)
 
 These answers are not laser cut in the board, instead we printed weird shaped stickers (that are connected to aesthetic of the project) on blu vinyl and then sticked them on the board.
+
+![](images/f.jpg)
